@@ -47,7 +47,6 @@ public class Lv6_OvenClock {
 					minute = minute + work;
 					System.out.println(+hour + " " + minute);
 				}
-				
 			}
 	}
 }
