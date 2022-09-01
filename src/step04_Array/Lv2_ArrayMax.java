@@ -29,6 +29,7 @@ public class Lv2_ArrayMax {
 			array[r] = sc.nextInt(); // 배열의 크기만큼 값을 입력받음
 		}
 
+
 		int max = array[0];
 		int count = 0;
 
